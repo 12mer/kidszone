@@ -29,6 +29,3 @@ Copy infomation from row 1 (no need to enter phone number)
 Once done, it will take you to a Confirmation Page. Enter OTP then proceed.
 
 It will take you back to the main website.
-
-
-9.
