@@ -1,5 +1,6 @@
 IMPORTANT!!!!
 File is too big for github (3GB) so I store it on Drive.
+
 Here are the steps:
 1. Download the file from this link, unzip it:
    https://drive.google.com/file/d/1DUVf5pNbBx_V3lPgjgza763_49VB24pC/view?usp=share_link
@@ -20,6 +21,7 @@ Here are the steps:
 7. Go Link: http://localhost:8000/
 
 PAYMENT GUIDE (I use MOMO payment method):
+
 When you are in the checkout page, open this link in a new tab: https://developers.momo.vn/v3/vi/docs/payment/onboarding/test-instructions/
 
 Scroll down to the "THÔNG TIN TEST THẺ ATM" section 
