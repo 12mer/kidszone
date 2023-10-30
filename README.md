@@ -1,3 +1,6 @@
+An interactive platform for toddlers (aged 1-3), featuring engaging nursery rhymes, counting activities, galleries of animals, plants, fruits, games, and colors, promoting comprehensive learning experiences.
+Technologies used: HTML, CSS, JS, Bootstrap, Jquery, PHP (backend), MySQL (database).
+
 IMPORTANT!!!!
 File is too big for github (3GB) so I store it on Drive.
 
